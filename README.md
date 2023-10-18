@@ -1,18 +1,1 @@
-# fraction
-public class Fraction {
-    private int numerator;
-    private int denominator;
-
-    public Fraction(int numerator, int denominator) {
-        this.numerator = numerator;
-        this.denominator = denominator;
-    }
-
-    public int getNumerator() {
-        return numerator;
-    }
-
-    public int getDenominator() {
-        return denominator;
-    }
-}
+![image](https://github.com/NadiyahQasamah/Teori07_PBO_A/assets/145907307/9421850d-c0b2-4161-b300-0731ec34dafe)
